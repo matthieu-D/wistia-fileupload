@@ -1,0 +1,28 @@
+{
+  "name": "Matthieu_DRULA_video_portal_api-master",
+  "main": "index.js",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.7",
+    "angular-bootstrap": "~1.3.3",
+    "angular-ui-router": "~0.3.1",
+    "animate.css": "~3.5.2",
+    "blueimp-file-upload": "~9.12.5",
+    "bootstrap": "~3.3.6",
+    "lodash": "~4.13.1"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.5.7"
+  },
+  "resolutions": {
+    "angular": ">=1.4.0"
+  }
+}
